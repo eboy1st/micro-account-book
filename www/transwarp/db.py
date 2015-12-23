@@ -12,7 +12,7 @@ __author__ = 'eboy1st'
 
 class classname(object):
     '''
-    文档
+    qq文档
     '''
 
     def __init__(self):
