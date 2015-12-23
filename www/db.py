@@ -1,26 +1,23 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-__author__ = 'Xiao Hongwei'
+__author__ = 'eboy1st'
 
 '''
-
+文档
 '''
 
-import 
+# import 引用模板
 
-class agfga(object):
+
+class classname(object):
     '''
-    ag
+    文档
     '''
-    def __init__(self,name):
+
+    def __init__(self):
         pass
-        class (object):
-            '''
-            
-            '''
-            def __init__(self):
-                pass
 
-if __name__=='__main__':
-    pass	
+
+def funname():
+    pass
